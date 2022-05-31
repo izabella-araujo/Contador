@@ -1,0 +1,19 @@
+body {
+    color: rgb(252, 246, 249);
+    background:rgb(255, 0, 212);
+    margin:auto;
+    text-align: center;
+}
+
+#title, .post_title {
+
+}
+
+#title {
+    text-transform: uppercase;
+    font-size:40px;
+}
+
+.post_title {
+    font-style: italic;
+}
